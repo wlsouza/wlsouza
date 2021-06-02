@@ -1,10 +1,10 @@
-# Hi 👋, I'm Wellington Lorenço
+# Hi<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" />, I'm Wellington Lorenço
 ### Programmer
 
 - 👨‍💻 I’m currently programming on Starplast. 
 - 🐍 I’m looking to collaborate on [Python](https://github.com/python) working groups & Python related projects. 
-- 🌱 I’m currently learning [Selenium](https://github.com/SeleniumHQ/selenium).
-- ⚡ Fun fact: I started programming in Python after a friend joked about me having a snake. (It's a cute [rainbow boa](https://en.wikipedia.org/wiki/Rainbow_boa))
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> I’m currently learning [Selenium](https://github.com/SeleniumHQ/selenium).
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: I started programming in Python after a friend joked about me having a snake. (It's a cute [rainbow boa](https://en.wikipedia.org/wiki/Rainbow_boa))
 
 
 
@@ -56,12 +56,9 @@
 
 
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> connect with me:
 
-## 🤝 connect with me:
-<!-- TO DO: FIX BADGES -->
-<!-- <p align="left">
-<a href="https://linkedin.com/in/wellingtonlorenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="wellingtonlorenco" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wlsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="wlsouza" height="30" width="40" /></a>
-<a href="https://discord.gg/1562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="1562" height="30" width="40" /></a>
-</p> -->
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin" width="32">](https://in.linkedin.com/in/wellingtonlorenco)
+[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/wlsouza)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/wlsouza) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:wlsouza@protonmail.com)
 
