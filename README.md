@@ -1,4 +1,4 @@
-# Hi<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35vw" />, I'm Wellington Lorenço
+# Hi <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35vw"/>, I'm Wellington Lorenço
 ### Programmer
 
 - 👨‍💻 I’m currently programming on Starplast. 
@@ -41,8 +41,8 @@
 </p>
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> connect with me:
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/wellingtonlorenco)
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/wlsouza)
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/wlsouza) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Email logo" height="32">](mailto:wlsouza@protonmail.com)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me:
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="40vw">](https://in.linkedin.com/in/wellingtonlorenco)
+[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="40vw">](https://github.com/wlsouza)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="40vw">](https://www.hackerrank.com/wlsouza) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Email logo" width="40vw">](mailto:wlsouza@protonmail.com)
 
