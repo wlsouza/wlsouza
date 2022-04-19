@@ -1,7 +1,7 @@
 # Hi <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35vw"/>, I'm Wellington Lorenço
 ### Programmer
 
-- 👨‍💻 I’m currently programming on Starplast. 
+- 👨‍💻 I’m currently programming on Grupo Boticário. 
 - 🐍 I’m looking to collaborate on [Python](https://github.com/python) working groups & Python related projects. 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> I’m currently learning [Argon2](https://en.wikipedia.org/wiki/Argon2).
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: I started programming in Python after a friend joked about me having a snake. (It's a cute [rainbow boa](https://en.wikipedia.org/wiki/Rainbow_boa))
